@@ -1,0 +1,53 @@
+header{
+background-color: #fffafaaf;
+border: 10px solid black;
+padding: 20px;
+text-align: center;
+}
+nav{
+    background-color: rgb(188, 223, 211);
+    padding: 5px 15px;
+}
+nav li{
+    display: inline-block;
+    list-style: none;
+    padding: 5px;
+    font: bold 14px verdana, san-serif;
+    text-align: center;
+}
+body{
+    text-align: center;
+}
+section{
+    float:center;
+    width: 70%;
+    margin: 20px;
+    text-align: justify;
+}
+aside{
+    float: right ;
+    width: 20%;
+    margin: 20px;
+    padding: 20px;
+    background-color: rgb(241, 183, 106);
+    text-align: right;
+}
+article{
+    background-color: antiquewhite;
+    border: 1px salmon;
+    padding: 20px;
+    margin-bottom: 15px;
+
+}
+footer{
+    clear: both;
+    text-align: left;
+    padding: 20px;
+    border-top: 2px solid ;
+
+
+}
+article{
+    float: left;
+    margin: 0px 10px;
+}
